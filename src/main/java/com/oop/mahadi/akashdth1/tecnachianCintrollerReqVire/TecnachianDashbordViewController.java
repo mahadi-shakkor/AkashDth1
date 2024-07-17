@@ -14,10 +14,6 @@ public class TecnachianDashbordViewController {
     private URL location;
 
     @FXML
-    private Label lafxid;
-
-    @javafx.fxml.FXML
-    public void initialize() {
-    }
+    pr
 
 }
