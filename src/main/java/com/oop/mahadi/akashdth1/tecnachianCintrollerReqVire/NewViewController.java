@@ -13,7 +13,8 @@ public class NewViewController {
     private URL location;
 
     @FXML
- m.out.println("hello world");
+    void initialize() {
+        System.out.println("hello world");
 
     }
 
