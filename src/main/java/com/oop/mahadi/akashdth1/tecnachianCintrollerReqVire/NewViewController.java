@@ -7,6 +7,9 @@ import javafx.fxml.FXML;
 public class NewViewController {
 
     @FXML
+    private ResourceBundle resources;
+
+    @FXML
     private URL location;
 
     @FXML
