@@ -16,8 +16,7 @@ public class TecnachianDashbordViewController {
     @FXML
     private Label lafxid;
 
-    @FXML
-    void initialize() {
+    @initialize() {
 
     }
 
