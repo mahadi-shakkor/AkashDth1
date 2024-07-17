@@ -14,6 +14,7 @@ public class NewViewController {
 
     @FXML
     void initialize() {
+        System.out.println("hello world");
 
     }
 
