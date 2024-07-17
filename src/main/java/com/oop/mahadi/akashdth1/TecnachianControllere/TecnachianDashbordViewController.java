@@ -1,4 +1,4 @@
-package com.oop.mahadi.akashdth1.TecnachianDashBoaedController;
+package com.oop.mahadi.akashdth1.TecnachianControllere;
 
 import java.net.URL;
 import java.util.ResourceBundle;
