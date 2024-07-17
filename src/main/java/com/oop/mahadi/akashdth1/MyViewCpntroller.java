@@ -4,4 +4,4 @@ public class MyViewCpntroller
 {
     @javafx.fxml.FXML
     public void initialize() {
-    }}
+    
