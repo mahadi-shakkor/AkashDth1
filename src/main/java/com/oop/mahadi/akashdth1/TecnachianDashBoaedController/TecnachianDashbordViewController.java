@@ -1,4 +1,4 @@
-package com.oop.mahadi.akashdth1.tecnachianCintrollerReqVire;
+package com.oop.mahadi.akashdth1.TecnachianDashBoaedController;
 
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -21,7 +21,17 @@ public class TecnachianDashbordViewController {
     private Label nameFxidLavelShow;
 
     @FXML
+    void ApplicationButton(ActionEvent event) {
+
+    }
+
+    @FXML
     void CustomerProfileButton(ActionEvent event) {
+
+    }
+
+    @FXML
+    void DocumrntDutton(ActionEvent event) {
 
     }
 
@@ -36,12 +46,12 @@ public class TecnachianDashbordViewController {
     }
 
     @FXML
-    void addRow(ActionEvent event) {
+    void backButton(ActionEvent event) {
 
     }
 
     @FXML
-    void backButton(ActionEvent event) {
+    void perforManceButton(ActionEvent event) {
 
     }
 
@@ -57,6 +67,10 @@ public class TecnachianDashbordViewController {
 
     @FXML
     void initialize() {
+
+
+
+
 
     }
 

@@ -1,4 +1,4 @@
-package com.oop.mahadi.akashdth1.tecnachianCintrollerReqVire;
+package com.oop.mahadi.akashdth1.TecnachianDashBoaedController;
 
 import java.net.URL;
 import java.util.ResourceBundle;
