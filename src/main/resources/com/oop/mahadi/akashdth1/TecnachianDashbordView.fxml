@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.AnchorPane?>
 
+<<<<<<< HEAD
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.oop.mahadi.akashdth1.TecnachianDashBoaedController.TecnachianDashbordViewController">
+=======
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.oop.mahadi.akashdth1.TecnachianCanSeeServiceReqGoalControllers.TecnachianDashbordViewController">
+>>>>>>> master
    <children>
-      <Label fx:id="lafxid" layoutX="286.0" layoutY="53.0" text="Label" />
+      <Label fx:id="idFxidLavelShow" layoutX="333.0" layoutY="307.0" prefHeight="17.0" prefWidth="162.0" text="Id" />
+      <Button layoutX="141.0" layoutY="109.0" mnemonicParsing="false" onAction="#FeedbackButton" text="Feedback" />
+      <Button layoutX="139.0" layoutY="64.0" mnemonicParsing="false" onAction="#workReqButton" text="Work Req" />
+      <Button layoutX="399.0" layoutY="109.0" mnemonicParsing="false" onAction="#perforManceButton" text="Performance graph" />
+      <Button layoutX="316.0" layoutY="109.0" mnemonicParsing="false" onAction="#DocumrntDutton" text="Documents" />
+      <Button layoutX="232.0" layoutY="109.0" mnemonicParsing="false" onAction="#ApplicationButton" text="Application" />
+      <Button layoutX="479.0" layoutY="64.0" mnemonicParsing="false" onAction="#RatingButton" text="Rating" />
+      <Button layoutX="348.0" layoutY="64.0" mnemonicParsing="false" onAction="#CustomerProfileButton" text="Customer profile" />
+      <Button layoutX="232.0" layoutY="64.0" mnemonicParsing="false" onAction="#submitdetailsButton" text="Submit Details" />
+      <Button layoutX="429.0" layoutY="506.0" mnemonicParsing="false" onAction="#backButton" prefHeight="25.0" prefWidth="201.0" text="Back" />
+      <Label layoutX="53.0" layoutY="14.0" text="Tecnachian dashboard" />
+      <Label layoutX="232.0" layoutY="270.0" text="Will show tecnacian name and id here" />
+      <Label fx:id="nameFxidLavelShow" layoutX="232.0" layoutY="307.0" text="Name" />
    </children>
 </AnchorPane>
